@@ -20,7 +20,7 @@ I'm a Software Engineer and millionaire aspirant💰
 
 ### 🌐Socials
 <div>
-  <a href="https://www.linkedin.com/in/pablo-ap-939623178/">
+  <a href="https://www.linkedin.com/in/pablo-prota-939623178/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/protageek/">
